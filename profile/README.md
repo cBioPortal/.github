@@ -24,6 +24,7 @@ Read the [Architecture docs](https://docs.cbioportal.org/architecture-overview/)
 - [session-service](https://github.com/cbioportal/session-service): User Session Service in Java Spring
 - [datahub](https://github.com/cBioPortal/datahub/): Contains all public data files for published studies
 - [cbioportal-docker-compose](https://github.com/cBioPortal/cbioportal-docker-compose): Recommended way to install cBioPortal and all its components using Docker
+- [codebook](https://github.com/cBioPortal/codebook): Analysis recipes for Python and R that leverage the cBioPortal REST API
 
 ## Cite 📚
 See [How to Cite](https://docs.cbioportal.org/user-guide/faq/#how-do-i-cite-the-cbioportal) section of docs.
