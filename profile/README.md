@@ -12,7 +12,7 @@ See [https://docs.cbioportal.org](https://docs.cbioportal.org)
 - The release notes on [GitHub](https://github.com/cBioPortal/cbioportal/releases) provide detailed information for each release for deployers/maintainers of cBioPortal
 - Docker Images are available for each tag and branch from [Docker Hub](https://hub.docker.com/repository/docker/cbioportal/cbioportal/tags)
 
-## 🐛 Bug reports and Feature Requests
+## 🐛 Bug Reports and Feature Requests
 Please email us at cbioportal@googlegroups.com or file a ticket in the [cbioportal/cbioportal isssue tracker](https://github.com/cBioPortal/cbioportal/issues).
 
 ## 📁 Repositories
