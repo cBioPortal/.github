@@ -29,5 +29,5 @@ Read the [Architecture docs](https://docs.cbioportal.org/architecture-overview/)
 - [datahub](https://github.com/cBioPortal/datahub/): Contains all public data files for published studies
 - [datahub-study-curation-tools](https://github.com/cBioPortal/datahub-study-curation-tools): Scripts to help curate studies for import into cBioPortal 
 
-## Cite 📚
+## 📚 Cite
 See [How to Cite](https://docs.cbioportal.org/user-guide/faq/#how-do-i-cite-the-cbioportal) section of docs.
