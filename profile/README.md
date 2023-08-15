@@ -8,10 +8,12 @@ If you are interested in coordinating the development of new features, please co
 ## 📘 Documentation
 See [https://docs.cbioportal.org](https://docs.cbioportal.org)
 
-## 🚀 Releases
 - The [cBioPortal News page](https://www.cbioportal.org/news) shows user focused release information (e.g. new data and new features)
 - The release notes on [GitHub](https://github.com/cBioPortal/cbioportal/releases) provide detailed information for each release for deployers/maintainers of cBioPortal
 - Docker Images are available for each tag and branch from [Docker Hub](https://hub.docker.com/repository/docker/cbioportal/cbioportal/tags)
+
+## 🐛 Bug reports and Feature Requests
+Please email us at cbioportal@googlegroups.com or file a ticket in the [cbioportal/cbioportal isssue tracker](https://github.com/cBioPortal/cbioportal/issues).
 
 ## 📁 Repositories
 Read the [Architecture docs](https://docs.cbioportal.org/architecture-overview/) to see how these relate:
